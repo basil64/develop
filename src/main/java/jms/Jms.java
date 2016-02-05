@@ -1,5 +1,6 @@
 package jms;
 
+// Main project class
 public class Jms {
 
     // This is first class
